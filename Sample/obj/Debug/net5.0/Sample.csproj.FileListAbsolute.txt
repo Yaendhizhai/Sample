@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.exe
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.deps.json
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.runtimeconfig.json
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.runtimeconfig.dev.json
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.dll
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\ref\Sample.dll
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\bin\Debug\net5.0\Sample.pdb
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.AssemblyInfo.cs
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.dll
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\ref\Sample.dll
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.pdb
+C:\Users\user\source\repos\Trainer Sessions\GIT\Sample\obj\Debug\net5.0\Sample.genruntimeconfig.cache
